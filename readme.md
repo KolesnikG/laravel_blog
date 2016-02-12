@@ -1,6 +1,11 @@
 # laravel_blog
 test_task
 
+for cloning result:
+
+git clone -b image_buttons https://github.com/KolesnikG/laravel_blog.git
+
+
 branches:
 
 master:empy file
