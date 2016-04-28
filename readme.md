@@ -17,6 +17,7 @@ So in the end there should be 3 branches - master, laravel_blog and image_button
 Please use Laravel tools as much as possible.
 
 Provide the result as a git repository (in github or bitbucket).
+
 --------------------------------------------------------------------------------------------------------
 
 for cloning result:
