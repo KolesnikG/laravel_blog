@@ -1,6 +1,8 @@
 # laravel_blog
 test_task
+
 -----------------------------------------------------------------------------------
+
 Here is the requested test task:
 
 Set up latest Laravel(first git commit). This should be done on a branch 'master'
